@@ -26,5 +26,8 @@ public class Main {
 
         System.out.println("A person with weight " + weight+ "(lbs) and height of " + height + "(meters) has a " +
                 "BMI of " + BMI);
+
+        System.out.println("Hello from git hub");
+
     }
 }
